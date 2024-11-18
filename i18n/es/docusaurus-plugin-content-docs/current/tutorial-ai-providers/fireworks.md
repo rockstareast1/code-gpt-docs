@@ -1,36 +1,55 @@
 ---
-sidebar_position: 13
+sidebar_position: 16
 ---
 
 # Fireworks
 
 Sitio web oficial https://app.fireworks.ai/
 
-Experimenta la plataforma de inferencia de IA generativa más rápida del mundo. Utiliza un modelo de código abierto de última generación o ajústalo y despliégalo sin costos adicionales.
+Experimenta la plataforma de inferencia de IA generativa más rápida del mundo. Utiliza un modelo de vanguardia de código abierto o ajusta y despliega el tuyo propio sin costo adicional.
 
 ## Conectar tu cuenta de Fireworks
 
 - Crea una cuenta en [Fireworks](https://app.fireworks.ai/login).
 - Ve a tu [Perfil / Claves API](https://app.fireworks.ai/users?tab=apps).
-- Elige `Fireworks` como `Proveedor`
-- `Establece conexión` y vincúlalo con tu cuenta en el botón `⋮`.
-- Copia la Clave API aquí:
+- Ve a VSCode y elige `Fireworks` como `Proveedor`
+- Haz clic en `Conectar` o `Establecer conexión`
+- Pega la clave API aquí y haz clic en `Conectar`:
 
-<p align="center">
-      <img width="400" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/e2b9485f-d2d8-4c35-99f4-fecce81ffeb0" />
-</p>
-  
-- Pega tu Clave API
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/304467e4-ba5e-4124-982a-eaa4f3b8f2fd" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/8a88eeb6-7e4e-4264-a920-a585f42cf490" />
+    </td>
+  </tr>
+</table>
 
 :::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
+Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y luego en `Desconectar`.
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/996db2bf-1a23-4449-be7c-de362ad1204a" />
+</p>
+
 :::
 
 ## Fireworks disponibles en Code GPT
 
+- llama-v3-70b-instruct
+- llama-v3p1-405b-instruct
+- llama-v3p1-8b-instruct
+- llama-v3p1-70b-instruct
 - llama-v2-7b-chat
 - llama-v2-70b-chat
+- mixtral-8x22b-instruct
 - mixtral-8x7b
+- yi-large
+- qwen2-72b-instruct
+- gemma-7b-it
+- dbrx-instruct
 - zephyr-7b-beta
 
 ## Errores de API

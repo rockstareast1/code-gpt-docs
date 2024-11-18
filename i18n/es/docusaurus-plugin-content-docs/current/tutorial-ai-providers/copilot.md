@@ -1,16 +1,16 @@
 ---
-sidebar_position: 3
+sidebar_position: 21
 ---
 
 # GitHub Copilot
 
-Sitio web oficial [https://docs.github.com/en/copilot](https://docs.github.com/en/copilot)
+Sitio web oficial: https://docs.github.com/en/copilot
 
 GitHub Copilot, un asistente de codificación impulsado por IA, está diseñado para simplificar tus tareas de codificación y minimizar el esfuerzo involucrado, permitiéndote concentrarte más en la resolución de problemas y la colaboración.
 
 ## Cómo conectar
 
-Para conectar, sigue estos pasos en VSCode:
+Para conectarte, sigue estos pasos en VSCode:
 
 1. Selecciona `GitHub Copilot` como tu `Proveedor`
 2. Haz clic en `Conectar` o `Establecer conexión`
@@ -20,7 +20,7 @@ Para conectar, sigue estos pasos en VSCode:
   <img width="300" height="150" src="https://github.com/user-attachments/assets/64c3d5c4-ca9f-435c-aed7-cd80f8004666" />
 </p>
 
-:::caution Cambiar Proveedores
+:::caution Cambio de Proveedores
 No necesitas preocuparte por desconectar GitHub Copilot. Para cerrarlo, simplemente puedes seleccionar otro proveedor.
 
 <p align="center">
@@ -28,7 +28,7 @@ No necesitas preocuparte por desconectar GitHub Copilot. Para cerrarlo, simpleme
 </p>
 :::
 
-### Modelos de GitHub Copilot disponibles en Code GPT
+### Modelos de GitHub Copilot Disponibles en Code GPT
 
 - gpt-4o
 - gpt-4o-mini
@@ -36,6 +36,6 @@ No necesitas preocuparte por desconectar GitHub Copilot. Para cerrarlo, simpleme
 - gpt-4
 - gpt-3.5 turbo
 
-## Solución de problemas de errores de API
+## Solución de Errores de API
 
 Si encuentras errores de API, consulta el siguiente enlace: [Documentación de GitHub Copilot](https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot)

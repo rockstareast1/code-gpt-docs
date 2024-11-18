@@ -2,11 +2,12 @@
 sidebar_position: 17
 ---
 
-# Personalizado
+# Personalizado/Custom
 
 Esta opción te permite elegir un proveedor. Todo lo que necesitas para conectarte es la clave API y el enlace personalizado del proveedor, comúnmente el enlace de registro.
 
 ## Conectar tu cuenta de Proveedor
+
 - Ve a VSCode y elige `Personalizado` como `Proveedor`
 - Haz clic en `Conectar` o `Establecer conexión`
 - Pega la clave API aquí y haz clic en `Conectar`:
@@ -22,8 +23,8 @@ Esta opción te permite elegir un proveedor. Todo lo que necesitas para conectar
   </tr>
 </table>
 
-:::caution Eliminar clave
-Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y selecciona `Desconectar`.
+:::caution Eliminar Clave
+Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y luego en `Desconectar`.
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/780f7909-9688-49a8-95ca-b33a23772f6c" />

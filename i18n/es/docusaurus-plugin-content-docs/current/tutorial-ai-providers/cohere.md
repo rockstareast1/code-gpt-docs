@@ -1,33 +1,46 @@
 ---
-sidebar_position: 9
+sidebar_position: 5
 ---
 
 # Cohere
 
 Sitio web oficial [https://cohere.ai](https://cohere.ai)
 
-Cohere es una empresa de inteligencia artificial especializada en el desarrollo de modelos de lenguaje. Utilizan técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones como análisis de sentimientos, resumen y traducción automática.
+Cohere es una empresa de inteligencia artificial que se especializa en el desarrollo de modelos de lenguaje. Utiliza técnicas avanzadas de procesamiento de lenguaje natural y aprendizaje automático para mejorar la comprensión del lenguaje humano y la capacidad de generar texto automáticamente. Sus modelos se utilizan en aplicaciones de análisis de sentimientos, resumen y traducción automática.
 
 ## Conectar tu cuenta de Cohere
 
 - Crea una cuenta en [cohere.ai](https://cohere.ai/)
 - Ve a tu [tablero](https://dashboard.cohere.com/api-keys)
-- Elige `Cohere` como `Proveedor`
-- `Establece conexión` y vincúlalo con tu cuenta en el botón `⋮`.
-- Copia la Clave API aquí:
+- Ve a VSCode y elige `Cohere` como `Proveedor`
+- Haz clic en `Conectar` o `Establecer conexión`
+- Pega la clave API aquí y haz clic en `Conectar`:
 
-<p align="center">
-      <img width="450" height="300" src="https://github.com/davila7/code-gpt-docs/assets/37567214/2a15c150-bbac-4376-9e0f-d96068220db2" />
-</p>
-
-- Pega tu Clave API
+<table>
+  <tr>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/bfc0836e-ad54-48b5-95cb-4d55d09a3fcd" />
+    </td>
+    <td align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/4c614029-24a3-4c9e-9c38-6f7524efa568" />
+    </td>
+  </tr>
+</table>
 
 :::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, abre la Paleta de Comandos y busca `CodeGPT: Eliminar API KEY`. O puedes seleccionar el botón `⋮` y hacer clic en `Eliminar Conexión`
+Si deseas eliminar tu clave API de CodeGPT, haz clic en el cuadro del proveedor y luego en `Desconectar`.
+
+<p align="center">
+      <img width="300" height="150" src="https://github.com/user-attachments/assets/e3170e92-6388-4141-b960-fc1ec41f507c" />
+</p>
+
 :::
 
-## Modelos nocturnos de Command disponibles en Code GPT
+## Modelos disponibles en CodeGPT
 
+- aya
+- command-r-plus
+- command-r
 - command
 - command-light
 

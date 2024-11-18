@@ -22,7 +22,7 @@ El Clúster de Wafer-Scale de Cerebras está meticulosamente diseñado para perm
 - Ve a https://inference.cerebras.ai/
 - Selecciona "Obtener Clave API"
 - Crea una cuenta
-- Haz clic en "Únete ahora"
+- Haz clic en "Únete Ahora"
 - Completa el formulario
 
 <p align="center">
@@ -39,12 +39,11 @@ El Clúster de Wafer-Scale de Cerebras está meticulosamente diseñado para perm
 </p>
 
 :::caution Eliminar Clave
-Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y en "Desconectar".
+Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor y "Desconectar".
 
 <p align="center">
       <img width="300" height="150" src="https://github.com/user-attachments/assets/eb8a35bf-ba6d-4113-b3b5-af4f8e6bedb5" />
 </p>
-
 :::
 
 ### Modelos de Cerebras Disponibles en Code GPT
@@ -57,5 +56,5 @@ Si deseas eliminar tu Clave API de CodeGPT, haz clic en el cuadro del proveedor 
 Si estás experimentando errores de API, consulta la siguiente documentación: [Documentación de Cerebras](https://docs.cerebras.ai/)
 
 :::info Nota Importante
-Este proveedor solo está disponible en la versión 3.5.73 de la extensión CodeGPT para VSCode y versiones posteriores. Asegúrate de tener la extensión actualizada.
+Este proveedor solo está disponible en la versión 3.5.73 de la extensión CodeGPT para VSCode y posteriores. Asegúrate de tener la extensión actualizada.
 :::
