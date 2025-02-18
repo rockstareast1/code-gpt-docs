@@ -1,0 +1,3 @@
+[submodule "docs/cookbook/codelan"]
+	path = docs/cookbook/codelan
+	url = https://rockstareast1@github.com/rockstareast1/SnapKit

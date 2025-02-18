@@ -9,53 +9,27 @@ Official website https://openai.com
 OpenAI is an artificial intelligence research organization that aims to develop and promote friendly AI that benefits humanity. It has produced several AI models, including GPT-4, arguably the world's most advanced natural language processing model.
 
 ## Connect your OpenAI Account
-- Go to the [API Keys page on OpenAI](https://platform.openai.com/account/api-keys).
-- Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup)
+- Log in with your OpenAI account (or [create a new account](https://platform.openai.com/signup))
+- Go to the [API Keys page on OpenAI](https://platform.openai.com/settings/organization/api-keys).
 - Click the button labeled **`Create a new secret key`**
 - A new dialog window containing a text box with your API key will appear.
-- Go to VSCode and choose `OpenAI` as `Provider`
-- `Connect` on the button.
-- Paste the API Key here, and click on `Connect` and Organization ID here:
-
-  <table>
-  <tr>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/6fe42470-9efe-4335-92e4-086cfcd8b49f" />
-    </td>
-    <td align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/b3a12636-a18f-4ed5-94b7-49dd9e631859" />
-    </td>
-  </tr>
-</table>
-  
-
-:::caution Remove Key
-If you want to remove your API Key from CodeGPT, click on the provider box and click on `Disconnect`.
-
+- Go to VSCode and `Select Your AI`
+- Select `OpenAI` as `Provider` and a model
+- Paste the API Key here, and click on `Connect` and Organization ID
 
 <p align="center">
-      <img width="300" height="150" src="https://github.com/user-attachments/assets/7859fa05-3aff-4035-9c6d-68573c1ede33" />
+      <img width="600" height="350" src="https://github.com/user-attachments/assets/a48d7c73-900b-4997-952f-b6255c9bcd14" />
+</p>
+
+
+:::caution Remove Key
+To remove your API Key from CodeGPT, click on the provider box and `Disconnect`.
+
+<p align="center">
+      <img width="300" height="250" src="https://github.com/user-attachments/assets/2048048f-0b1a-41be-a985-af97066b0cdb" />
 </p>
 
 :::
-
-
-## GPT models available in Code GPT
-- gpt-4
-- gpt-4o
-- gpt-4o-mini
-- gpt-4o-2024-05-13
-- gpt-4-turbo
-- gpt-4-turbo-2024-04-09
-- gpt-4-32k
-- gpt-4-32k-0613
-- gpt-4-1106-preview
-- gpt-4-0125-preview
-- gpt-3.5-turbo
-- gpt-3.5-turbo-16k
-- gpt-3.5-turbo-16k-0613
-- gpt-3.5-turbo-0125
-- gpt-3.5-turbo-1106
 
 ## OpenAI API
 
